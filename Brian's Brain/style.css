@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#grid {
+    background-color: black;
+    width: 90vh; height: 90vh;
+    border: .25vh solid red;
+}
